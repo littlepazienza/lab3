@@ -5,6 +5,7 @@ public class Tester
     // Example test case
     // Star s = new Star(Shape.Color.green, 5);
     // System.out.println("star = " + s);
+	
 	  
 	//Test for RightTriangle
 	RightTriangle rt = new RightTriangle(Shape.Color.red, "triangle", 4, 4);

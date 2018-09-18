@@ -10,7 +10,6 @@ public class RightTriangle extends Shape
 		length = in_length;
 		width = in_width;
 		
-		
 	}
 
 	@Override
